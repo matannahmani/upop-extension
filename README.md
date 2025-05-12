@@ -6,8 +6,8 @@ UPOP is a browser extension that elevates digital communication with seamless an
 
 ### Wallet Authentication
 
--  Connect using your Phantom wallet (Solana-based)
--  Authentication secured with cryptographic signatures
+-  Connect using your Phantom wallet
+-  Authenticate securely with signed wallet messages
 -  Token-gated access: Verify ownership of 0.2%+ of the token supply to unlock Upop features
 -  No account creation, no data stored — just on-chain access control
 -  Official Contract Address [PLACEHOLDER_FOR_CA]
