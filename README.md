@@ -13,29 +13,33 @@ UPOP is a browser extension that elevates digital communication with seamless an
 -  Official Contract Address [PLACEHOLDER_FOR_CA]
 
 ### 🔖 Bookmarks Manager
-Effortlessly curate your must-visit sites and make them look as good as they behave:
-- 🎨 **Custom Icons**: Give each bookmark its own personality for at-a-glance recognition  
-- ⚡  **Instant Access**: Jump straight to your favorite pages with one click  
-- ✂️ **Drag-and-Drop Magic**: Rearrange, group, and fine-tune your list in seconds  
 
-### 🗂️ Advanced Layouts System
-Build the perfect workspace for every mood and mission:
-- 💾 **Save Your Setup**: Snapshots of window arrangements you can recall anytime  
-- 🔄 **One-Click Restore**: Bring back multiple windows exactly where you left them  
-- 🎯 **Task-Focused Workspaces**: Switch between “Deep Focus,” “Research Mode,” and more  
+-  Save and organize bookmarks with custom icons
+-  Quick-access your favorite websites in 1 click
+-  Drag & drop to reorder for personal flow
+
+⸻
+
+### 🧩 Advanced Layouts System
+
+-  Save window setups as smart layouts
+-  Instantly restore multi-window views with 1 click
+-  Swap between focused work modes effortlessly
+
+⸻
 
 ### 💬 Enhanced Communication Platforms
-Chat, collaborate, and concentrate without the noise:
-- ✨ **Discord, Refreshed**: A cleaner layout that hides the clutter and highlights what matters  
-- 🚀 **Telegram, Accelerated**: Streamlined message view for faster scrolling and searching  
-- 🔒 **Focus Mode**: Filter out distractions so you stay on point  
 
-### 🔄 Seamless Window Management
-Keep dozens of tabs and windows from turning into chaos:
-- 🔍 **Window Tracker**: See all your open windows at a glance  
-- 📏 **Precision Placement**: Save exact sizes and positions for repeatable setups  
-- ☁️ **Cross-Device Sync**: Your layout travels with you—laptop, desktop, or even a secondary monitor  
+-  Cleaned-up Discord UI for sharper signal
+-  Telegram, optimized for quick scanning
+-  Stay focused without toggling tabs
 
+⸻
+
+### 🪟 Seamless Window Management
+-  Keep track of multiple popups with precision
+-  Lock window positions & sizes
+-  Sync across devices for a unified setup
 
 ## 🛠️ Technical Overview
 
