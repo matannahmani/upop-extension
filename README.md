@@ -18,23 +18,18 @@ UPOP is a browser extension that elevates digital communication with seamless an
 -  Quick-access your favorite websites in 1 click
 -  Drag & drop to reorder for personal flow
 
-⸻
-
 ### 🧩 Advanced Layouts System
 
 -  Save window setups as smart layouts
 -  Instantly restore multi-window views with 1 click
 -  Swap between focused work modes effortlessly
 
-⸻
 
 ### 💬 Enhanced Communication Platforms
 
 -  Cleaned-up Discord UI for sharper signal
 -  Telegram, optimized for quick scanning
 -  Stay focused without toggling tabs
-
-⸻
 
 ### 🪟 Seamless Window Management
 -  Keep track of multiple popups with precision
