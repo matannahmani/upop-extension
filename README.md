@@ -10,7 +10,7 @@ UPOP is a browser extension that elevates digital communication with seamless an
 -  Authenticate securely with signed wallet messages
 -  Token-gated access: Verify ownership of 0.2%+ of the token supply to unlock Upop features
 -  No account creation, no data stored — just on-chain access control
--  Official Contract Address [PLACEHOLDER_FOR_CA]
+-  Official Contract Address [9m37vdiCsSWuzHx6du5Wx8S8KCAD5xKNoetxvcLpump]
 
 ### 🔖 Bookmarks Manager
 
