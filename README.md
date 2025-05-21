@@ -70,7 +70,3 @@ This project is licensed under the MIT License.
 ## 🔗 Links
 
 - [Website](https://upop.gg/)
-
----
-
-Made with love by @matannahmani
